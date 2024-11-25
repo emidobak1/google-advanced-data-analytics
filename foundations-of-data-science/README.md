@@ -1,4 +1,5 @@
-** About this Module **
+## About this Module
+
 
 This is the first of seven courses in the Google Advanced Data Analytics Certificate, which will help develop the skills needed to apply for more advanced data professional roles, such as an entry-level data scientist or advanced-level data analyst. Data professionals analyze data to help businesses make better decisions. To do this, they use powerful techniques like data storytelling, statistics, and machine learning. In this course, you’ll begin your learning journey by exploring the role of data professionals in the workplace. You’ll also learn about the project workflow PACE (Plan, Analyze, Construct, Execute) and how it can help you organize data projects.
 
@@ -8,13 +9,14 @@ Learners who complete the seven courses in this program will have the skills nee
 
 By the end of this course, you will:
 
-Describe the functions of data analytics and data science within an organization
-Identify tools used by data professionals
-Explore the value of data-based roles in organizations
-Investigate career opportunities for a data professional
-Explain a data project workflow
-Develop effective communication skills
-Syllabus
+- Describe the functions of data analytics and data science within an organization
+- Identify tools used by data professionals
+- Explore the value of data-based roles in organizations
+- Investigate career opportunities for a data professional
+- Explain a data project workflow
+- Develop effective communication skills
+
+### Syllabus
 Week 1 - Introduction to data science concepts
 Overview of the Google Advanced Data Analytics Certificate
 Exploring the history of data science
