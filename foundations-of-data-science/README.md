@@ -21,18 +21,22 @@ Week 1 - Introduction to data science concepts
 Overview of the Google Advanced Data Analytics Certificate
 Exploring the history of data science
 Applications of data science in problem-solving today
+
 Week 2 - The impact of data today
 Further exploration of the history of data science
 Understanding the contemporary data career landscape
 How data professionals manage and analyze data
 Utilizing data-driven insights for organizational benefits
+
 Week 3 - Your career as a data professional
 Identifying essential skills for data professionals
 Collaboration strategies among data professionals and teammates
+
 Week 4 - Data applications and workflow
 Introduction to the PACE (Plan, Analyze, Construct, Execute) project workflow
 Organizing a data project effectively
 Communication skills for effective collaboration with teammates and stakeholders
+
 Week 5 - Course 1 end-of-course project
 Completion of an end-of-course project
 Application of new data skills and knowledge from Week 1 to a workplace scenario
